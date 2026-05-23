@@ -191,8 +191,6 @@ X-Models-All: 1
 .
 ├── worker_openai.js      # 主程序（Worker 入口）
 ├── wrangler-relay.toml   # Wrangler 部署配置
-├── worker.js             # 同仓库其他 Worker（VLESS/订阅等，独立项目）
-├── config.yaml           # Clash 配置（与中转无关）
 └── README.md
 ```
 
